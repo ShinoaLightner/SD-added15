@@ -6,7 +6,7 @@
     "txt2img/Styles/visible": false,
     "txt2img/Styles/value": [],
     "txt2img/Sampling method/visible": false,
-    "txt2img/Sampling method/value": "DPM+ SDE Karras",
+    "txt2img/Sampling method/value": "DPM++ SDE Karras",
     "txt2img/Sampling steps/visible": true,
     "txt2img/Sampling steps/value": 28,
     "txt2img/Sampling steps/minimum": 7,
