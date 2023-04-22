@@ -1,0 +1,3 @@
+masterpiece, absurdres, best quality,
+Negative prompt: lowres, ((bad anatomy)), ((bad hands)), text, missing finger, (extra fingers), extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts))
+Steps: 28, Sampler: DPM++ SDE Karras, CFG scale: 9, Seed: 628535032, Size: 768x512, Model hash: 7ffbd01916, Model: corneos7thHeavenMix_v2, Denoising strength: 0.7, Clip skip: 2, ENSD: 31337, Hires resize: 1536x1024, Hires upscaler: Latent
